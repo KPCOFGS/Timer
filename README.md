@@ -22,9 +22,9 @@ pip install -r requirements.txt
 
 `--hours HOURS` Optional. Number of hours to sleep (default: 0)
 
-`--repeat-times` Optional. Number of times to repeat the message (default: 3)
+`--repeat-times REPEAT-TIME` Optional. Number of times to repeat the message (default: 3)
 
-`--message` Optional. Message to repeat (default: "Time is up")
+`--message MESSAGE` Optional. Message to repeat (default: "Time is up")
 
 ## Usage
 
