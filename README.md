@@ -15,10 +15,15 @@ pip install -r requirements.txt
 ```
 
 ## Parameters
+
 `--seconds SECONDS` Optional. Number of seconds to sleep (default: 0)
+
 `--minutes MINUTES` Optional. Number of minutes to sleep (default: 0)
+
 `--hours HOURS` Optional. Number of hours to sleep (default: 0)
+
 `--repeat-times` Optional. Number of times to repeat the message (default: 3)
+
 `--message` Optional. Message to repeat (default: "Time is up")
 
 ## Usage
